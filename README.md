@@ -1,23 +1,5 @@
 # HR Diversity & Inclusion Analysis
 
-![Banner](Images/HR-diversity-and-inclusion-Banner.png)
-
-## Contents
-
-- [Description](#description)
-- [Project Details](#project-details)
-- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
-  - [Calculated KPIs](#some-of-the-kpis-that-were-calculated-include)
-  - [What is Diversity Percentage?](#what-is-diversity-percentage)
-  - [What does Turnover mean?](#what-does-turnover-mean)
-  - [What is Percentage Turnover?](#what-is-percentage-turnover)
-- [Data Collection](#data-collection)
-- [Skills](#skills)
-- [Tech Stack](#tech-stack)
-- [Insights \& Recommendations](#insights--recommendations)
-- [Dashboard](#dashboard)
-- [Conclusion](#conclusion)
-
 ## Description
 
 As part of the PwC Power BI in Data Analytics Virtual Case Experience, I analyzed an HR Diversity and Inclusion dataset, designing a Power BI dashboard report and defining KPIs to measure the organization's progress. I formulated KPIs such as Diversity Ratio, Turnover Percentage, and Performance Rating to gain valuable insights. The project enabled data-driven decision-making, provided actionable insights, and facilitated continuous growth towards diversity and inclusion goals.
@@ -32,12 +14,6 @@ To begin the analysis, I calculated the diversity ratio, comparing the number of
 Other KPIs included the percentage of turnover, the average performance rating of male employees, and the average performance rating of female employees. Using these KPIs, I designed a dashboard report that provided a clear and concise overview of the organization's diversity and inclusion initiatives, including areas of strength and areas that require improvement.
 
 Overall, this HR Diversity and Inclusion Analysis project served as a valuable tool for HR managers to evaluate and measure the organization's progress towards creating a more diverse and inclusive workplace culture. Through this project, I was able to provide actionable insights and data-driven decisions to ensure the organization's continuous growth towards diversity and inclusion goals.
-<br>
-<br>
-<p align="center">
-  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" style="width: 566px; height: 377px; max-width: 100%; height: auto;" />
-</p>
-
 
 ## Key Performance Indicators (KPIs)
 
@@ -103,8 +79,6 @@ A high percentage turnover rate can indicate that there are issues within the or
 ## Data Collection
 
 The dataset was provided as an excel file by PwC from the Human Resources department of a telecom client during PwC Power BI in Data Analytics Virtual Case Experience, which contained records of 500 employee consisting major fields like Employee ID, Gender, Age Group, Job Level after FY20 Promotions, New Hire FY20, FY20 Performance Rating, FY20 Leaver, Last Department in FY20, Time in Job Level, Promotion in FY20, Last Hire Date, etc. \
-**Link:** [Dataset](03-Diversity-Inclusion-Dataset.xlsx)
-
 
 ## Skills
 - Data Cleaning 
@@ -125,9 +99,6 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 - DAX
 - Microsoft Power BI
 
-# 
-
-![Image1](Images/HR-diversity-and-inclusion-image2.jpeg)
 
 ## Insights & Recommendations
 
