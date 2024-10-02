@@ -1,9 +1,5 @@
 # HR Diversity & Inclusion Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/HR-diversity-inclusion-analysis-PwC?logo=github)
-![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/aryakghosal/HR-diversity-inclusion-analysis-PwC?logo=history&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
-
 ![Banner](Images/HR-diversity-and-inclusion-Banner.png)
 
 ## Contents
@@ -145,21 +141,7 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 5. The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
 
-## Dashboard
 
-![Diversity](Images/1-Diversity.jpg)
-
-![Hiring](Images/2-Hiring.jpg)
-
-![Performance](Images/3-Performance.jpg)
-
-![Slicer1](Images/4-Slicer1.jpg)
-
-![Slicer2](Images/5-Slicer2.jpg)
-
-![Slicer3](Images/6-Slicer3.jpg)
-
-[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmNmZWViNGItNjY4Ni00Nzg0LTkwYzctMDZiNGJmODQwYTYxIiwidCI6ImFhODMxNTE3LTU2ZTQtNGM4MS1iNTViLTYxZTk1MjQwMGE1MCJ9)
 
 
 ## Conclusion
